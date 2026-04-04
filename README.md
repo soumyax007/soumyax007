@@ -7,10 +7,10 @@ I'm somewhere between a developer and a designer — and honestly, I like it tha
 
 ##  What I'm about
 
--  Computer Science @ South Asian University
--  Currently exploring **Web Design**
--  I design things that work *and* turn heads
--  Built **Rasoi** — an Indian cuisine recipe site because good food deserves a good-looking webpage
+- 🎓 Computer Science @ South Asian University
+- 🌱 Currently exploring **Web Design**
+- ✏️ I design things that work *and* turn heads
+- 🍛 Built **Rasoi** — an Indian cuisine recipe site because good food deserves a good-looking webpage
 
 ---
 
