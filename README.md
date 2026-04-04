@@ -5,12 +5,12 @@ I'm somewhere between a developer and a designer — and honestly, I like it tha
 
 ---
 
-## 🧠 What I'm about
+##  What I'm about
 
-- 🎓 Computer Science @ South Asian University
-- 🌱 Currently exploring **Web Design**
-- ✏️ I design things that work *and* turn heads
-- 🍛 Built **Rasoi** — an Indian cuisine recipe site because good food deserves a good-looking webpage
+-  Computer Science @ South Asian University
+-  Currently exploring **Web Design**
+-  I design things that work *and* turn heads
+-  Built **Rasoi** — an Indian cuisine recipe site because good food deserves a good-looking webpage
 
 ---
 
@@ -23,14 +23,14 @@ I'm somewhere between a developer and a designer — and honestly, I like it tha
 
 ---
 
-## 📬 Reach me
+##  Reach me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyadipdebnath005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadip-debnath-36347b272)
 
 ---
 
-*Currently looking for web design roles — let's build something that looks as good as it works.* ✨
+*Currently looking for web design roles — let's build something that looks as good as it works.* 
 <!--
 **soumyax007/soumyax007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
